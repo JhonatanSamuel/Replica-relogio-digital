@@ -30,3 +30,11 @@ body {
     box-shadow: 10px 5px 5px rgba(234, 226, 226, 0.503);
     font-weight: bold;
 }
+
+@media screen and (max-width: 710px) {
+    .time {
+        font-size: 4rem;
+        height: 7rem;
+        width: 22rem;
+    }
+}
